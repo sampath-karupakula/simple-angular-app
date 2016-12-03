@@ -1,7 +1,8 @@
 import { Component } from '@angular/core';
 
+//sa =(simple application)
 @Component({
-  selector: 'app-root',
+  selector: 'sa-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
